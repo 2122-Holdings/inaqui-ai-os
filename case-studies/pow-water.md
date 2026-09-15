@@ -33,6 +33,12 @@ The project operating layer preserves only the context needed to route and conti
 
 Current operational details remain in their designated systems. AI environments use those sources only within their authorized roles.
 
+## Operating environment
+
+![POW Water operating environment](../assets/screenshots/pow-operating-environment.png)
+
+The project was divided into bounded working environments for different operating needs, including daily operations, commercial work, field work, GIS, technical work, task management and roadmap execution. This separation keeps each environment focused while the wider project architecture preserves continuity across them.
+
 ## Roadmap-centered operating loop
 
 ```text
@@ -74,6 +80,22 @@ AI-assisted workflows ingest authorized provided data — public, proprietary, o
 The pattern does not require public data. A project can use only authorized proprietary or operational inputs.
 
 The workflow should preserve data provenance, licenses, coordinate systems, transformation history, layer dependencies, and validation evidence. Generated maps and commercial interpretations are derived artifacts; their publication and operational use remain subject to data rights and applicable authority.
+
+## Geospatial intelligence in practice
+
+![POW Water layered geospatial analysis environment](../assets/screenshots/pow-geospatial-intelligence.png)
+
+GIS work combined supplied, public and otherwise authorized datasets with geospatial files, operational constraints and business questions in a layered analysis environment. The reusable pattern is:
+
+```text
+Data
+→ Cleaning & Transformation
+→ Layered GIS Environment
+→ Geographic Analysis
+→ Operational / Commercial Intelligence
+```
+
+The screenshot documents the working environment without asserting or disclosing any private commercial conclusion from the map.
 
 ## Provider roles
 

@@ -30,6 +30,12 @@ The software project repository remains canonical for code and accepted engineer
 
 The broader OS stores only enough context to locate the project, understand its boundary, identify the current work lane, and resume safely.
 
+## Repository-centered engineering
+
+![PhotoVault repository structure](../assets/screenshots/photovault-repository-structure.png)
+
+The project repository preserves engineering state through explicit structures for architecture, decisions, research, experiments, investigations, tasks, tests and verification. This durable structure allows current work to inherit prior reasoning without depending on a model's conversation history.
+
 ## Evidence before implementation
 
 An engineering question begins with a bounded uncertainty. Research, repository inspection, or an experiment produces evidence. That evidence can support a recommendation and review. An accepted decision then authorizes implementation within scope.
@@ -65,6 +71,12 @@ When a new AI environment joins the project, it should:
 10. update material decisions, evidence, and handoff state.
 
 This workflow is portable even when providers expose different tools. A provider without a required capability should hand off the bounded operation rather than changing the project's source of truth.
+
+## AI engineering environment
+
+![PhotoVault Codex project environment](../assets/screenshots/photovault-codex-environment.png)
+
+Repository-aware AI execution environments can enter the project through its durable context rather than depending on previous conversation history. Codex is shown here as an execution environment; the project repository, not Codex, remains canonical for engineering state.
 
 ## Engineering roles and verification
 

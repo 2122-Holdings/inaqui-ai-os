@@ -20,6 +20,14 @@ The architecture separates the durable memory of a project from the tools used t
 
 The durable core is intentionally simple: manual, Markdown-first and version-controlled. Project environments can add automation where it creates value.
 
+## Built and used in practice
+
+This public repository abstracts a private operating architecture that has been used across multiple real project environments.
+
+![Private Iñaqui OS repository structure](assets/screenshots/inaqui-os-repository-structure.png)
+
+*The private Iñaqui OS repository organizes persistent context, capabilities, decisions, knowledge, projects and operating rules independently from the AI runtime executing the work.*
+
 ## What this looks like in practice
 
 ### POW Water — Business Operations

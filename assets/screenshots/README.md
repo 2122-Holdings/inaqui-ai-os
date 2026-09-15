@@ -1,28 +1,15 @@
-# Screenshot Review Queue
+# Screenshots
 
-Screenshots are permitted only after explicit individual human approval. This directory intentionally contains no screenshots during the initial review.
+These five screenshots are documentary captures of real working environments:
 
-## Candidate evidence set
+- `inaqui-os-repository-structure.png`;
+- `pow-operating-environment.png`;
+- `pow-geospatial-intelligence.png`;
+- `photovault-codex-environment.png`;
+- `photovault-repository-structure.png`.
 
-The following candidates are under consideration, not approved:
+Each screenshot was individually reviewed before publication and sanitized where necessary. The images are illustrative evidence that the public architecture has been implemented and used; they are not canonical operational sources.
 
-- Iñaqui OS private repository structure;
-- POW Water project-OS repository structure;
-- PhotoVault engineering repository structure;
-- Codex project environment;
-- Claude/Cowork POW project environment;
-- ChatGPT project environment;
-- POW Water QGIS environment.
+The screenshots may represent historical project state and must not be interpreted as current operational status. Current state continues to require verification against the applicable authorized source system.
 
-## Required process for each screenshot
-
-1. Define the exact public claim the image supports.
-2. Capture the minimum necessary region using a controlled view.
-3. Sanitize names, paths, IDs, URLs, accounts, contacts, source content, notifications, maps, and metadata.
-4. Flatten irreversible redactions.
-5. Inspect the final image at full resolution.
-6. Remove image metadata not required for publication.
-7. Record explicit human approval for that exact exported file.
-8. Recheck it in the context of the complete public repository.
-
-Approval of one screenshot does not approve another screenshot, a replacement capture, or an original unredacted source.
+Any future screenshot requires its own sanitization and explicit individual human approval before publication.
