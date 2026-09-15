@@ -142,6 +142,7 @@ The architecture keeps evidence, recommendations, decisions, execution and valid
 
 ## Explore the repository
 
+- [How I Work With AI](HOW_I_WORK_WITH_AI.md) — an operator's perspective on using persistent context to connect strategy, information and execution
 - [Architecture](ARCHITECTURE.md) — system layers, source authority, handoffs and the operating loop
 - [Portability](PORTABILITY.md) — how another AI environment resumes a project
 - [Capabilities](CAPABILITIES.md) — the nine reusable operating capabilities
