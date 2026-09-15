@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="780" viewBox="0 0 1300 780" role="img" aria-labelledby="title desc">
+  <title id="title">Source authority model</title>
+  <desc id="desc">A question is routed by scope to a named canonical source, while evidence and generated views remain supporting inputs.</desc>
+  <rect width="1300" height="780" fill="#f7f6f2"/>
+  <text x="650" y="55" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" font-weight="700" fill="#17212b">Source Authority Model</text>
+  <text x="650" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#52606d">Authority belongs to a named source for a defined scope</text>
+
+  <rect x="465" y="125" width="370" height="85" rx="20" fill="#17212b"/>
+  <text x="650" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#fff">QUESTION OR PROPOSED UPDATE</text>
+  <text x="650" y="188" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#d9e7ee">What scope and state does it affect?</text>
+
+  <path d="M650 210V270" stroke="#586a76" stroke-width="4"/>
+  <path d="M642 256L650 272L658 256Z" fill="#586a76"/>
+
+  <rect x="465" y="275" width="370" height="105" rx="20" fill="#e7eef3" stroke="#315b73" stroke-width="2"/>
+  <text x="650" y="315" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#234b61">SCOPE &amp; AUTHORITY ROUTING</text>
+  <text x="650" y="344" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#52606d">project · owner · freshness · permissions</text>
+
+  <path d="M465 327H320 M835 327H980 M650 380V450" stroke="#586a76" stroke-width="3"/>
+  <path d="M334 319L318 327L334 335 M966 319L982 327L966 335 M642 436L650 452L658 436" fill="none" stroke="#586a76" stroke-width="3"/>
+
+  <rect x="55" y="250" width="265" height="155" rx="18" fill="#fff" stroke="#8b5e3c" stroke-width="2" stroke-dasharray="7 6"/>
+  <text x="188" y="286" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#6b4226">SUPPORTING EVIDENCE</text>
+  <text x="188" y="320" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">meetings · email</text>
+  <text x="188" y="346" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">research · observations</text>
+  <text x="188" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#8b5e3c">context, not automatic authority</text>
+
+  <rect x="980" y="250" width="265" height="155" rx="18" fill="#fff" stroke="#704c8a" stroke-width="2" stroke-dasharray="7 6"/>
+  <text x="1112" y="286" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#5b3d70">DERIVED VIEWS</text>
+  <text x="1112" y="320" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">summaries · dashboards</text>
+  <text x="1112" y="346" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">maps · generated artifacts</text>
+  <text x="1112" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#704c8a">useful, not automatically canonical</text>
+
+  <rect x="330" y="455" width="640" height="135" rx="22" fill="#e8f2ef" stroke="#2f6f61" stroke-width="3"/>
+  <text x="650" y="497" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#24564b">NAMED CANONICAL SOURCE</text>
+  <text x="650" y="531" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3f625a">authoritative for the defined scope</text>
+  <text x="650" y="561" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">repository · document system · database · GIS · governed service</text>
+
+  <path d="M650 590V646" stroke="#586a76" stroke-width="4"/>
+  <path d="M642 632L650 648L658 632Z" fill="#586a76"/>
+
+  <rect x="400" y="650" width="500" height="80" rx="20" fill="#fff" stroke="#a34f41" stroke-width="2"/>
+  <text x="650" y="683" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#80392f">VERIFY → ACT WITH AUTHORITY → VALIDATE</text>
+  <text x="650" y="710" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#59636e">Contradictions are surfaced, not silently reconciled.</text>
+</svg>

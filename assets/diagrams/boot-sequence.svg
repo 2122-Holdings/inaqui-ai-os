@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Portable AI project boot sequence</title>
+  <desc id="desc">Seven steps from reading operating instructions to resuming bounded work and preserving continuity.</desc>
+  <rect width="1400" height="520" fill="#f7f6f2"/>
+  <text x="700" y="55" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" font-weight="700" fill="#17212b">Portable Boot Sequence</text>
+  <text x="700" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#52606d">A new AI environment reconstructs context from durable sources</text>
+
+  <g font-family="system-ui, sans-serif">
+    <rect x="45" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#315b73" stroke-width="2"/>
+    <text x="130" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#315b73">01</text>
+    <text x="130" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Read OS</text>
+    <text x="130" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">instructions</text>
+
+    <rect x="235" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#315b73" stroke-width="2"/>
+    <text x="320" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#315b73">02</text>
+    <text x="320" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Identify</text>
+    <text x="320" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">scope</text>
+
+    <rect x="425" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#2f6f61" stroke-width="2"/>
+    <text x="510" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#2f6f61">03</text>
+    <text x="510" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Load project</text>
+    <text x="510" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">context</text>
+
+    <rect x="615" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#704c8a" stroke-width="2"/>
+    <text x="700" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#704c8a">04</text>
+    <text x="700" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Locate</text>
+    <text x="700" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">sources</text>
+
+    <rect x="805" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#8b5e3c" stroke-width="2"/>
+    <text x="890" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#8b5e3c">05</text>
+    <text x="890" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Verify current</text>
+    <text x="890" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">state</text>
+
+    <rect x="995" y="145" width="170" height="150" rx="18" fill="#fff" stroke="#a34f41" stroke-width="2"/>
+    <text x="1080" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#a34f41">06</text>
+    <text x="1080" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">Confirm</text>
+    <text x="1080" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#17212b">authority</text>
+
+    <rect x="1185" y="145" width="170" height="150" rx="18" fill="#17212b" stroke="#17212b" stroke-width="2"/>
+    <text x="1270" y="184" text-anchor="middle" font-size="14" font-weight="700" fill="#d9e7ee">07</text>
+    <text x="1270" y="220" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">Resume</text>
+    <text x="1270" y="247" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">bounded work</text>
+  </g>
+
+  <path d="M215 220H235 M405 220H425 M595 220H615 M785 220H805 M975 220H995 M1165 220H1185" stroke="#586a76" stroke-width="3"/>
+  <path d="M225 212L235 220L225 228 M415 212L425 220L415 228 M605 212L615 220L605 228 M795 212L805 220L795 228 M985 212L995 220L985 228 M1175 212L1185 220L1175 228" fill="none" stroke="#586a76" stroke-width="3"/>
+
+  <rect x="250" y="350" width="900" height="85" rx="17" fill="#e7eef3"/>
+  <text x="700" y="385" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#234b61">After execution: validate the effect and preserve material continuity.</text>
+  <text x="700" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#52606d">A handoff records dated state; current facts still require source verification.</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Iñaqui AI OS architecture overview</title>
+  <desc id="desc">Governance surrounds durable context, project environments, canonical sources, and replaceable AI runtimes.</desc>
+  <rect width="1200" height="760" fill="#f7f6f2"/>
+  <text x="600" y="58" text-anchor="middle" font-family="system-ui, sans-serif" font-size="32" font-weight="700" fill="#17212b">Iñaqui AI OS</text>
+  <text x="600" y="91" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" fill="#52606d">Persistent context around replaceable execution environments</text>
+
+  <rect x="70" y="125" width="1060" height="565" rx="28" fill="#e7eef3" stroke="#315b73" stroke-width="3"/>
+  <text x="100" y="163" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#234b61">GOVERNANCE &amp; BOUNDARIES</text>
+  <text x="1095" y="163" text-anchor="end" font-family="system-ui, sans-serif" font-size="15" fill="#315b73">scope · privacy · authority · validation</text>
+
+  <rect x="120" y="190" width="960" height="105" rx="18" fill="#fff" stroke="#8b5e3c" stroke-width="2"/>
+  <text x="600" y="229" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#6b4226">DURABLE OPERATING CONTEXT</text>
+  <text x="600" y="262" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#59636e">instructions · source maps · decisions · workflows · dated handoffs</text>
+
+  <rect x="120" y="325" width="290" height="150" rx="18" fill="#fff" stroke="#2f6f61" stroke-width="2"/>
+  <rect x="455" y="325" width="290" height="150" rx="18" fill="#fff" stroke="#2f6f61" stroke-width="2"/>
+  <rect x="790" y="325" width="290" height="150" rx="18" fill="#fff" stroke="#2f6f61" stroke-width="2"/>
+  <text x="265" y="367" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#24564b">PROJECT A</text>
+  <text x="265" y="400" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">context · rules · handoff</text>
+  <text x="265" y="428" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">sources · capabilities</text>
+  <text x="600" y="367" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#24564b">PROJECT B</text>
+  <text x="600" y="400" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">context · rules · handoff</text>
+  <text x="600" y="428" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">sources · capabilities</text>
+  <text x="935" y="367" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#24564b">PROJECT C</text>
+  <text x="935" y="400" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">context · rules · handoff</text>
+  <text x="935" y="428" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">sources · capabilities</text>
+
+  <path d="M265 475V520 M600 475V520 M935 475V520" stroke="#586a76" stroke-width="3"/>
+  <path d="M255 510L265 522L275 510 M590 510L600 522L610 510 M925 510L935 522L945 510" fill="none" stroke="#586a76" stroke-width="3"/>
+
+  <rect x="120" y="525" width="460" height="110" rx="18" fill="#fff" stroke="#704c8a" stroke-width="2"/>
+  <text x="350" y="566" text-anchor="middle" font-family="system-ui, sans-serif" font-size="21" font-weight="700" fill="#5b3d70">CANONICAL SOURCES</text>
+  <text x="350" y="600" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">repositories · documents · databases · GIS</text>
+
+  <rect x="620" y="525" width="460" height="110" rx="18" fill="#fff" stroke="#a34f41" stroke-width="2"/>
+  <text x="850" y="566" text-anchor="middle" font-family="system-ui, sans-serif" font-size="21" font-weight="700" fill="#80392f">REPLACEABLE RUNTIMES</text>
+  <text x="850" y="600" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#59636e">models · tools · connectors · interfaces</text>
+
+  <path d="M580 580H620" stroke="#586a76" stroke-width="3" stroke-dasharray="7 7"/>
+  <text x="600" y="665" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#315b73">Sources keep authority. Runtimes perform bounded work.</text>
+</svg>

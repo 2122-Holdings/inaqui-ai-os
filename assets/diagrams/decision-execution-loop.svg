@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Decision and execution operating loop</title>
+  <desc id="desc">Ten-stage loop from operating roadmap through evidence, authorized execution, validation, and updated context.</desc>
+  <rect width="1400" height="900" fill="#f7f6f2"/>
+  <text x="700" y="55" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" font-weight="700" fill="#17212b">Decision &amp; Execution Loop</text>
+  <text x="700" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#52606d">The roadmap directs work; evidence and authorization govern progress</text>
+
+  <g font-family="system-ui, sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+    <rect x="480" y="125" width="440" height="72" rx="18" fill="#17212b"/>
+    <text x="700" y="169" fill="#fff">1. Operating Roadmap</text>
+
+    <rect x="930" y="230" width="350" height="72" rx="18" fill="#e7eef3" stroke="#315b73" stroke-width="2"/>
+    <text x="1105" y="274" fill="#234b61">2. Priorities &amp; Questions</text>
+
+    <rect x="930" y="345" width="350" height="72" rx="18" fill="#e7eef3" stroke="#315b73" stroke-width="2"/>
+    <text x="1105" y="389" fill="#234b61">3. Research, Meetings &amp; Data</text>
+
+    <rect x="930" y="460" width="350" height="72" rx="18" fill="#e8f2ef" stroke="#2f6f61" stroke-width="2"/>
+    <text x="1105" y="493" fill="#24564b">4. Structured Evidence</text>
+    <text x="1105" y="515" fill="#24564b">&amp; Knowledge</text>
+
+    <rect x="735" y="610" width="410" height="72" rx="18" fill="#f4ede6" stroke="#8b5e3c" stroke-width="2"/>
+    <text x="940" y="643" fill="#6b4226">5. Recommendation</text>
+    <text x="940" y="665" fill="#6b4226">or Decision Request</text>
+
+    <rect x="255" y="610" width="410" height="72" rx="18" fill="#f4e9e7" stroke="#a34f41" stroke-width="2"/>
+    <text x="460" y="654" fill="#80392f">6. Authorized Decision</text>
+
+    <rect x="120" y="460" width="350" height="72" rx="18" fill="#f4e9e7" stroke="#a34f41" stroke-width="2"/>
+    <text x="295" y="493" fill="#80392f">7. Tasks &amp; Bounded</text>
+    <text x="295" y="515" fill="#80392f">Execution</text>
+
+    <rect x="120" y="345" width="350" height="72" rx="18" fill="#f1ecf5" stroke="#704c8a" stroke-width="2"/>
+    <text x="295" y="378" fill="#5b3d70">8. Follow-up &amp;</text>
+    <text x="295" y="400" fill="#5b3d70">Exception Handling</text>
+
+    <rect x="120" y="230" width="350" height="72" rx="18" fill="#e8f2ef" stroke="#2f6f61" stroke-width="2"/>
+    <text x="295" y="263" fill="#24564b">9. Validation &amp;</text>
+    <text x="295" y="285" fill="#24564b">Evidence-Based Closure</text>
+
+    <rect x="480" y="730" width="440" height="72" rx="18" fill="#fff" stroke="#17212b" stroke-width="3"/>
+    <text x="700" y="763" fill="#17212b">10. Updated Project Context</text>
+    <text x="700" y="785" fill="#17212b">&amp; Roadmap</text>
+  </g>
+
+  <g fill="none" stroke="#586a76" stroke-width="4">
+    <path d="M920 161C1010 166 1085 184 1105 230"/>
+    <path d="M1105 302V345"/>
+    <path d="M1105 417V460"/>
+    <path d="M1060 532C1045 566 1005 590 960 610"/>
+    <path d="M735 646H665"/>
+    <path d="M425 610C375 585 330 560 310 532"/>
+    <path d="M295 460V417"/>
+    <path d="M295 345V302"/>
+    <path d="M260 230C300 175 390 163 480 161"/>
+    <path d="M460 682C485 720 540 745 600 755" stroke-dasharray="8 7"/>
+    <path d="M800 730C830 695 855 680 875 682" stroke-dasharray="8 7"/>
+    <path d="M700 730V200" stroke-dasharray="8 9" opacity="0.35"/>
+  </g>
+  <g fill="#586a76">
+    <path d="M1101 219L1105 232L1113 221Z"/><path d="M1097 333L1105 347L1113 333Z"/>
+    <path d="M1097 448L1105 462L1113 448Z"/><path d="M971 598L957 612L976 609Z"/>
+    <path d="M679 638L663 646L679 654Z"/><path d="M320 544L307 530L311 549Z"/>
+    <path d="M287 431L295 417L303 431Z"/><path d="M287 316L295 302L303 316Z"/>
+    <path d="M467 153L482 161L467 169Z"/><path d="M587 746L602 756L583 758Z"/>
+    <path d="M864 690L877 680L871 698Z"/>
+  </g>
+
+  <text x="700" y="851" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#52606d">Recommendations are not decisions. Closure requires evidence. Material change updates the next roadmap cycle.</text>
+</svg>
